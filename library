@@ -21,7 +21,7 @@ draggable(menu.outline)
 
 local cursor = Drawing.new("Image")
 cursor.Data = game:HttpGet("https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f")
-cursor.Size = Vector2.new(64,64)
+cursor.Size = Vector2.new(40,40)
 cursor.Visible = true
 
 library.notifyText.Font = 2
